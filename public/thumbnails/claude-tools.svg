@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" width="1440" height="900">
+<rect width="1440" height="900" fill="#fafaf9"></rect>
+
+      <g stroke="#e7e5e4" stroke-width="1">
+        <line x1="0" y1="0" x2="0" y2="900"></line><line x1="96" y1="0" x2="96" y2="900"></line><line x1="192" y1="0" x2="192" y2="900"></line><line x1="288" y1="0" x2="288" y2="900"></line><line x1="384" y1="0" x2="384" y2="900"></line><line x1="480" y1="0" x2="480" y2="900"></line><line x1="576" y1="0" x2="576" y2="900"></line><line x1="672" y1="0" x2="672" y2="900"></line><line x1="768" y1="0" x2="768" y2="900"></line><line x1="864" y1="0" x2="864" y2="900"></line><line x1="960" y1="0" x2="960" y2="900"></line><line x1="1056" y1="0" x2="1056" y2="900"></line><line x1="1152" y1="0" x2="1152" y2="900"></line><line x1="1248" y1="0" x2="1248" y2="900"></line><line x1="1344" y1="0" x2="1344" y2="900"></line>
+        <line x1="0" y1="0" x2="1440" y2="0"></line><line x1="0" y1="90" x2="1440" y2="90"></line><line x1="0" y1="180" x2="1440" y2="180"></line><line x1="0" y1="270" x2="1440" y2="270"></line><line x1="0" y1="360" x2="1440" y2="360"></line><line x1="0" y1="450" x2="1440" y2="450"></line><line x1="0" y1="540" x2="1440" y2="540"></line><line x1="0" y1="630" x2="1440" y2="630"></line><line x1="0" y1="720" x2="1440" y2="720"></line><line x1="0" y1="810" x2="1440" y2="810"></line>
+      </g>
+      <g font-family="ui-monospace" fill="#57534e" font-size="13">
+        <text x="40" y="36">claude-sonnet-4.5 · tools (draw+inspect) · iter 6/6</text>
+      </g>
+      <g transform="translate(720,480) scale(1.5)" stroke="#0c0a09" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    
+    <circle cx="-120" cy="60" r="80" fill="#fafaf9"></circle>
+    
+    <circle cx="120" cy="60" r="80" fill="#fafaf9"></circle>
+    
+    <path d="M-120 60 L0 -10 L120 60 M0 -10 L-30 60 L-120 60 M0 -10 L40 -40"></path>
+    
+    <path d="M-20 -25 L20 -25"></path>
+    
+    <path d="M30 -50 L60 -50"></path>
+    
+    <ellipse cx="0" cy="-100" rx="60" ry="42" fill="#fff"></ellipse>
+    
+    <circle cx="50" cy="-130" r="22" fill="#fff"></circle>
+    
+    <path d="M68 -125 L120 -118 L70 -110 Z" fill="#d97757"></path>
+    
+    <circle cx="55" cy="-135" r="2" fill="#0c0a09"></circle>
+    
+    <path d="M-20 -68 L-20 -25 M20 -68 L20 -25"></path>
+  </g>
+    
+</svg>

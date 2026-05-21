@@ -1,0 +1,26 @@
+[
+  {
+    "session_id": "5c6a6c2d-e54f-4f6a-aa0a-0901fedaca13",
+    "transcript_path": "/Users/jamesguthriebest/.claude/projects/-Users-jamesguthriebest-code-ai-test-ai-test-web-site/5c6a6c2d-e54f-4f6a-aa0a-0901fedaca13.jsonl",
+    "cwd": "/Users/jamesguthriebest/code/ai-test/ai test web site",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  },
+  {
+    "session_id": "bbe69943-3ee0-456c-9a0c-967f40d55d48",
+    "transcript_path": "/Users/jamesguthriebest/.claude/projects/-Users-jamesguthriebest-code-ai-test-ai-test-web-site/bbe69943-3ee0-456c-9a0c-967f40d55d48.jsonl",
+    "cwd": "/Users/jamesguthriebest/code/ai-test/ai test web site",
+    "hook_event_name": "Notification",
+    "message": "Claude needs your permission",
+    "notification_type": "permission_prompt"
+  },
+  {
+    "session_id": "bbe69943-3ee0-456c-9a0c-967f40d55d48",
+    "transcript_path": "/Users/jamesguthriebest/.claude/projects/-Users-jamesguthriebest-code-ai-test-ai-test-web-site/bbe69943-3ee0-456c-9a0c-967f40d55d48.jsonl",
+    "cwd": "/Users/jamesguthriebest/code/ai-test/ai test web site",
+    "hook_event_name": "Notification",
+    "message": "Claude is waiting for your input",
+    "notification_type": "idle_prompt"
+  }
+]

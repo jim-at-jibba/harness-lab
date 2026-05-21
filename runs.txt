@@ -1,0 +1,8 @@
+mario-claude-sonnet      model: Anthropic Sonnet 4.7 (Opencode Zen)    url: https://mario-sonnet-opencode.netlify.app/   harness: Opencode    notes: Using superpowers
+mario-claude-sonnet-cc   model: Anthropic Sonnet 4.7    url:    harness: Claude Code    notes: Using superpowers
+mario-deepseek-v4        model: Deepseek V4 Pro (Opencode Go)    url: https://mario-deepseek-v4-pro.netlify.app/   harness: Opencode   notes: superpowers
+mario-gln-5.1            model: GLM 5.1 (Z.ai)    url: https://mario-glm-51-opencode.netlify.app/    harness: Opencode    notes: superpowers
+mario-mm2.7              model: MiniMax 2.7 (Opencode Go)   url: https://mario-mm27.netlify.app/   harness: Opencode   notes: Superpowers
+mario-opus               model: Anthropic Opus 4.7    url: https://mario-opus-cc.netlify.app/    harness: Claude Code    notes: Superpowers
+mario-qwen36             model: Qwen 3.6 (Opencode Go)    url: https://mario-qwen-36-opencode.netlify.app/    harness: Opencode   notes: Superpowers
+mario-qwen36-pi          model: Qwen 3.6 (Opencode Go)   url: https://mario-qwen-36-pi.netlify.app/   harness: Pi   notes: Janus Orchestrator
