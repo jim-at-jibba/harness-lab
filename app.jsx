@@ -348,7 +348,6 @@ function App() {
 
       <footer className="site-footer">
         <span>harness-lab · {today}</span>
-        <span>Edit data.js to add or remove runs.</span>
       </footer>
 
       <TweaksPanel>
