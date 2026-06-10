@@ -73,6 +73,14 @@ export const RUNS = [
     model: "Anthropic Fable 5",
     thumbnail: "thumbnails/mario-claude-fable-cc.png",
     notes: "superpowers"
+  },
+  {
+    title: "Mushroom Kingdom Side-Scroller — MiMo 2.5 Pro",
+    url: "https://mario-mimo25-pro-pi.netlify.app/",
+    harness: "Pi",
+    model: "MiMo 2.5 Pro",
+    thumbnail: "thumbnails/mario-mimo2.5pro-pi.png",
+    notes: ""
   }
 ];
 
