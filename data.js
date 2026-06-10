@@ -80,7 +80,7 @@ export const RUNS = [
     harness: "Pi",
     model: "MiMo 2.5 Pro",
     thumbnail: "thumbnails/mario-mimo2.5pro-pi.png",
-    notes: ""
+    notes: "Janus Orchestrator"
   }
 ];
 
