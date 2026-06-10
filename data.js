@@ -65,6 +65,14 @@ export const RUNS = [
     model: "Qwen 3.6 (Opencode Go)",
     thumbnail: "thumbnails/mario-qwen36-pi.png",
     notes: "Janus Orchestrator"
+  },
+  {
+    title: "Mushroom Kingdom Side-Scroller — Anthropic Fable 5",
+    url: "https://mario-claude-fable-cc.netlify.app/",
+    harness: "Claude Code",
+    model: "Anthropic Fable 5",
+    thumbnail: "thumbnails/mario-claude-fable-cc.png",
+    notes: "superpowers"
   }
 ];
 
