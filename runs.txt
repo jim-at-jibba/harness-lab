@@ -6,3 +6,4 @@ mario-mm2.7              model: MiniMax 2.7 (Opencode Go)   url: https://mario-m
 mario-opus               model: Anthropic Opus 4.7    url: https://mario-opus-cc.netlify.app/    harness: Claude Code    notes: Superpowers
 mario-qwen36             model: Qwen 3.6 (Opencode Go)    url: https://mario-qwen-36-opencode.netlify.app/    harness: Opencode   notes: Superpowers
 mario-qwen36-pi          model: Qwen 3.6 (Opencode Go)   url: https://mario-qwen-36-pi.netlify.app/   harness: Pi   notes: Janus Orchestrator
+mario-grok-45            model: Grok 4.5    url: https://mario-grok-45.netlify.app/   harness: Pi   notes: Janus Orchestrator

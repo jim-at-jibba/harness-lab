@@ -81,6 +81,14 @@ export const RUNS = [
     model: "MiMo 2.5 Pro",
     thumbnail: "thumbnails/mario-mimo2.5pro-pi.png",
     notes: "Janus Orchestrator"
+  },
+  {
+    title: "Mushroom Kingdom Side-Scroller — Grok 4.5",
+    url: "https://mario-grok-45.netlify.app/",
+    harness: "Pi",
+    model: "Grok 4.5",
+    thumbnail: "thumbnails/mario-grok-45.png",
+    notes: "Janus Orchestrator"
   }
 ];
 
