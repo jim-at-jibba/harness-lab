@@ -89,6 +89,14 @@ export const RUNS = [
     model: "Grok 4.5",
     thumbnail: "thumbnails/mario-grok-45.png",
     notes: "Janus Orchestrator"
+  },
+  {
+    title: "Mushroom Kingdom Side-Scroller — Kimi 2.7",
+    url: "https://mario-kimi-27.netlify.app/",
+    harness: "Pi",
+    model: "Kimi 2.7",
+    thumbnail: "thumbnails/mario-kimi-27.png",
+    notes: "Janus Orchestrator"
   }
 ];
 
